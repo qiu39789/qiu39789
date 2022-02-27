@@ -138,3 +138,15 @@ print([1, 2, 3] * 3)
     is（判断存储单元是否相同）  is not（判断存储单元是否不同）
 
 """
+
+#  定义超长字符串的方法
+info1 = """
+11111111111111111111111111111111111111111111111
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qweqwewqew
+"""
+info2 = ('11111111111111111111111111111111111'
+         '111111111111111111111111111'
+         'qwwwwwwwwwwwwwwwwwwwwwwwww')
+print(info1)
+print(info2)
