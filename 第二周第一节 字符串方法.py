@@ -1,4 +1,4 @@
-# coding utf-8
+# coding:utf-8
 
 """
 字符串内置函数

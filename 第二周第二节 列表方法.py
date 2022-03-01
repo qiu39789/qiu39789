@@ -1,4 +1,4 @@
-# coding utf-8
+# coding:utf-8
 
 # 1、len在列表和元组中的用法 （len函数只有数字类型无法使用）
 import copy

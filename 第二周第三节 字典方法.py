@@ -1,4 +1,4 @@
-# coding utf-8
+# coding:utf-8
 
 # 字典中每一个key一定是唯一的，字典中数据量没有限制，字典中的value可以是任何python的内置数据类型的对象
 # 和自定义的对象，key不支持列表
